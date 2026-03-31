@@ -3,7 +3,7 @@
 # 👋 Nicolas SAIZE
 
 🎓 Futur L3 MIAGE — Méthodes Informatiques Appliquées à la Gestion d'Entreprises  
-🔎 Recherche alternance **Data Analyst** à partir de **mi-juillet 2026**  
+🔎 Recherche alternance **Data Analyst** à partir de **août 2026**  
 🔗 [linkedin.com/in/nicolas-saize](https://www.linkedin.com/in/nicolas-saize/)
 
 </div>
